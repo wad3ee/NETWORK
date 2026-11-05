@@ -15,3 +15,4 @@ netpractice_plus/
 ├── netpractice_plus/      # Front-end assets, HTML views, JS logic, CSS styles, and graphics
 └── run.sh                 # Quick execution and startup script
 ```
+# NETWORK
